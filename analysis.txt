@@ -1,1 +1,12 @@
+Dataset: Iris Dataset (sklearn)
+
+In this analysis, I explored the Iris dataset, which contains measurements of flower features such as sepal length, sepal width, petal length, and petal width.
+
+I focused on the relationship between sepal length and petal length. A scatter plot was created to visualize the correlation between these two features.
+
+The scatter plot shows a strong positive correlation: as sepal length increases, petal length also increases. This suggests that flowers with longer sepals tend to have longer petals.
+
+The calculated correlation coefficient confirms this observation, indicating a strong linear relationship between the selected features.
+
+This analysis demonstrates how visualizations and correlation analysis can help identify meaningful relationships within a dataset.
 
